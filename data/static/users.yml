@@ -1,6 +1,6 @@
 -
-  email: admin
-  password: 'admin123'
+  email: king
+  password: 'king123'
   key: admin
   role: 'admin'
   securityQuestion:
@@ -27,8 +27,8 @@
       expMonth: 4
       expYear: 2086
 -
-  email: jim
-  password: 'ncc-1701'
+  email: Ahmed
+  password: 'Ahmed123'
   key: jim
   role: 'customer'
   walletBalance: 100
@@ -59,8 +59,8 @@
       expMonth: 11
       expYear: 2099
 -
-  email: bender
-  password: 'OhG0dPlease1nsertLiquor!'
+  email: Ali
+  password: 'Ali123'
   key: bender
   role: 'customer'
   securityQuestion:
@@ -103,8 +103,8 @@
       expMonth: 12
       expYear: 2092
 -
-  email: ciso
-  password: 'mDLx?94T~1CfVfZMzw@sJ9f?s3L6lbMqE70FfI8^54jbNikY5fymx7c!YbJb'
+  email: Meev
+  password: 'Meev123'
   key: ciso
   role: 'deluxe'
   securityQuestion:
