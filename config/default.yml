@@ -99,45 +99,45 @@ hackingInstructor:
   hintPlaybackSpeed: normal # Options: faster fast normal slow slower
 products:
   -
-    name: 'Apple Juice (1000ml)'
+    name: 'Graps Juice (1000ml)'
     price: 1.99
     deluxePrice: 0.99
     limitPerUser: 5
-    description: 'The all-time classic.'
+    description: 'fresh juice.'
     image: apple_juice.jpg
     reviews:
       - { text: 'One of my favorites!', author: admin }
       - { text: "Great! We'll have an apple party. Everyone brings an apple and - STUFFS IT DOWN EACH OTHER'S THROAT!", author: basil }
   -
-    name: 'Orange Juice (1000ml)'
-    description: 'Made from oranges hand-picked by Uncle Dittmeyer.'
+    name: 'kewi Juice (1000ml)'
+    description: 'Made from kewi hand-picked by Uncle Dittmeyer.'
     price: 2.99
     deluxePrice: 2.49
     image: orange_juice.jpg
     reviews:
       - { text: 'y0ur f1r3wall needs m0r3 musc13', author: uvogin }
   -
-    name: 'Eggfruit Juice (500ml)'
+    name: 'dragonfruit Juice (500ml)'
     description: 'Now with even more exotic flavour.'
     price: 8.99
     image: eggfruit_juice.jpg
     reviews:
       - { text: 'I bought it, would buy again. 5/7', author: admin }
   -
-    name: 'Raspberry Juice (1000ml)'
-    description: 'Made from blended Raspberry Pi, water and sugar.'
+    name: 'melon Juice (1000ml)'
+    description: 'Made from melon red ,balance water and sugar.'
     price: 4.99
     image: raspberry_juice.jpg
   -
-    name: 'Lemon Juice (500ml)'
-    description: 'Sour but full of vitamins.'
+    name: 'coffie Juice (500ml)'
+    description: 'not bad but full of coffien.'
     price: 2.99
     deluxePrice: 1.99
     limitPerUser: 5
     image: lemon_juice.jpg
   -
-    name: 'Banana Juice (1000ml)'
-    description: 'Monkeys love it the most.'
+    name: 'pear Juice (1000ml)'
+    description: 'iam love it the most.'
     price: 1.99
     image: banana_juice.jpg
     reviews:
