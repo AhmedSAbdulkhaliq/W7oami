@@ -1,6 +1,6 @@
 -
-  email: king
-  password: 'king123'
+  email: King
+  password: 'King123'
   key: admin
   role: 'admin'
   securityQuestion:
