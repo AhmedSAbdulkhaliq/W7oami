@@ -517,6 +517,7 @@ memories:
     caption: 'Everything up and running!'
     user: bjoernOwasp
 ctf:
+  key: '4696132754d5244b6b7f196baf48205d'
   showFlagsInNotifications: false
   showCountryDetailsInNotifications: none # Options: none  name  flag  both
   countryMapping: ~

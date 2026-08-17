@@ -1,6 +1,6 @@
 -
-  email: King
-  password: 'King123'
+  email: King@ShopEase.com
+  password: 'fd6a8e08953360ed4a8fd005c3bcdd3b'
   key: admin
   role: 'admin'
   securityQuestion:
@@ -27,8 +27,8 @@
       expMonth: 4
       expYear: 2086
 -
-  email: Ahmed
-  password: 'Ahmed123'
+  email: Ahmed@ShopEase.com
+  password: 'fd6a8e08953360ed4a8fd005c3bcdd3b'
   key: jim
   role: 'customer'
   walletBalance: 100
@@ -59,8 +59,8 @@
       expMonth: 11
       expYear: 2099
 -
-  email: Ali
-  password: 'Ali123'
+  email: Ali@ShopEase.com
+  password: 'fd6a8e08953360ed4a8fd005c3bcdd3b'
   key: bender
   role: 'customer'
   securityQuestion:
@@ -103,8 +103,8 @@
       expMonth: 12
       expYear: 2092
 -
-  email: Meev
-  password: 'Meev123'
+  email: Meev@ShopEase.com
+  password: 'fd6a8e08953360ed4a8fd005c3bcdd3b'
   key: ciso
   role: 'deluxe'
   securityQuestion:
