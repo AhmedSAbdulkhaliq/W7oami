@@ -14,3 +14,4 @@ hackingInstructor:
   isEnabled: false
 ctf:
   showFlagsInNotifications: true
+  showHints: false
